@@ -4,14 +4,14 @@ Anindita is a **Principal Tech Writer** at **Vymo** and has a deep enriched know
 
 ##  Agenda
 
--  Create a Github repository
--  Understand Markdown
--  Use Dillinger.io to create a plain text 
+-  Create a Github repository.
+-  Understand MarkDown.
+-  Use Dillinger.io to create a plain text. 
   
 ### Create a Github Repository
 
 To create a Github repository:
-1.  Go to [Github] (https://github.com/)
+1.  Go to [Github] (https://github.com/).
 2.  Click **+**.
 3.  Name your repository.
 4.  Select _Public_ as you want to collaborate with others for this project.
