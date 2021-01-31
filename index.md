@@ -1,3 +1,11 @@
-# This is an index file for the MarkDown session on 30Jan 2021.
+#  TWT Session by Anindita on 30 Jan 2021
 
-Repo was forked by _Mohana_.
+Anindita is a **Principal Tech Writer** at **Vymo** and has a deep enriched knowledge in various areas of Tech Writing. Today she will be sharing her knowledge on how to write _docs-as-code_.
+
+##  Agenda
+
+-  Create a Github repository.
+-  Understand MarkDown.
+-  Use Dillinger.io to create a plain text. 
+-  Fork a topic created by a teammate.
+-  Pull requests.
