@@ -1,3 +1,9 @@
+---
+title: Page_variable
+---
+
+
+
 #  TWT Session by Anindita on 30 Jan 2021
 
 Anindita is a **Principal Tech Writer** at **Vymo** and has a deep enriched knowledge in various areas of Tech Writing. Today she will be sharing her knowledge on how to write _docs-as-code_.
@@ -18,3 +24,6 @@ Anindita is a **Principal Tech Writer** at **Vymo** and has a deep enriched know
 
 ## Learn Git Commands
 git clone
+
+## Local Variables
+((page.title))
