@@ -15,3 +15,6 @@ Anindita is a **Principal Tech Writer** at **Vymo** and has a deep enriched know
 
 ##  Wiki
 [Wiki in Git](https://github.com/mridula-techwriter/TWT_30Jan_M2.wiki.git)
+
+## Learn Git Commands
+git clone
