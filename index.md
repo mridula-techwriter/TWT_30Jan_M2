@@ -1,5 +1,6 @@
 ---
 title: Page_variable
+layout: Template1
 ---
 
 
