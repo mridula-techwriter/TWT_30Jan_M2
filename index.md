@@ -17,13 +17,17 @@ Anindita is a **Principal Tech Writer** at **Vymo** and has a deep enriched know
 -  Pull requests.
 
 ##  Issues
+
 [Issue_797656147_M2_TW](https://github.com/mridula-techwriter/TWT_30Jan_M2/issues/2#issue-797656147)
 
 ##  Wiki
+
 [Wiki in Git](https://github.com/mridula-techwriter/TWT_30Jan_M2.wiki.git)
 
 ## Learn Git Commands
+
 git clone
 
 ## Local Variables
-((page.title))
+
+{{page.title}}
