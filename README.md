@@ -6,3 +6,5 @@ To create a Github repository:
 3.  Name your repository.
 4.  Select _Public_ as you want to collaborate with others for this project.
 5.  Click **Create**.
+
+Need to research more
